@@ -1,4 +1,4 @@
-package github.scarsz.discordsrv;
+package github.scarsz.discordsrv.sponge;
 
 import com.google.inject.Inject;
 import github.scarsz.discordsrv.commmon.HelloWorld;

@@ -1,4 +1,4 @@
-package github.scarsz.discordsrv;
+package github.scarsz.discordsrv.forge;
 
 import github.scarsz.discordsrv.commmon.HelloWorld;
 import net.minecraftforge.fml.common.Mod;
