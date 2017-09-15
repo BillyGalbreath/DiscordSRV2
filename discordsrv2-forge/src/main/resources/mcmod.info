@@ -1,0 +1,20 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "DiscordSRV",
+    "name": "DiscordSRV",
+    "description": "The most powerful, configurable, open-source Discord bridge plugin out there.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/Scarsz/DiscordSRV",
+    "updateUrl": "",
+    "authorList": [
+      "Scarsz",
+      "Androkai"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }]
+}

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.spongepowered:plugin-meta:0.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spongepowered/plugin-meta/0.4.1/419e2f7cb6f7ccdb13cbba0c46021c3e2f0fefda/plugin-meta-0.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spongepowered/plugin-meta/0.4.1/7db7c6d2dcc7a9fdb74bee95c0ced94294cc00bd/plugin-meta-0.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

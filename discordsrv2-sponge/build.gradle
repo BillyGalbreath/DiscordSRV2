@@ -1,0 +1,13 @@
+dependencies {
+    compile project(":discordsrv2-common")
+    compile 'org.spongepowered:spongeapi:6.0.0'
+}
+
+shadowJar {
+    dependencies {
+        include(dependency(':discordsrv2-common'))
+    }
+}
+
+plugins { id 'org.spongepowered.plugin' version '0.8.1' }
+sponge.plugin.id = pluginId

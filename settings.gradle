@@ -1,0 +1,3 @@
+rootProject.name = 'discordsrv2'
+
+include 'discordsrv2-common', 'discordsrv2-bukkit', 'discordsrv2-sponge', 'discordsrv2-bungee', 'discordsrv2-forge'

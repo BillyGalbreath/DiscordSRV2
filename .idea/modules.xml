@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-bukkit/discordsrv2-bukkit.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-bukkit/discordsrv2-bukkit.iml" group="discordsrv2-bukkit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-bukkit/discordsrv2-bukkit_main.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-bukkit/discordsrv2-bukkit_main.iml" group="discordsrv2-bukkit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-bukkit/discordsrv2-bukkit_test.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-bukkit/discordsrv2-bukkit_test.iml" group="discordsrv2-bukkit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-bungee/discordsrv2-bungee.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-bungee/discordsrv2-bungee.iml" group="discordsrv2-bungee" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-bungee/discordsrv2-bungee_main.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-bungee/discordsrv2-bungee_main.iml" group="discordsrv2-bungee" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-bungee/discordsrv2-bungee_test.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-bungee/discordsrv2-bungee_test.iml" group="discordsrv2-bungee" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-common/discordsrv2-common.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-common/discordsrv2-common.iml" group="discordsrv2-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-common/discordsrv2-common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-common/discordsrv2-common_main.iml" group="discordsrv2-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-common/discordsrv2-common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-common/discordsrv2-common_test.iml" group="discordsrv2-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-forge/discordsrv2-forge.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-forge/discordsrv2-forge.iml" group="discordsrv2-forge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-forge/discordsrv2-forge_api.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-forge/discordsrv2-forge_api.iml" group="discordsrv2-forge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-forge/discordsrv2-forge_main.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-forge/discordsrv2-forge_main.iml" group="discordsrv2-forge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-forge/discordsrv2-forge_test.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-forge/discordsrv2-forge_test.iml" group="discordsrv2-forge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-sponge/discordsrv2-sponge.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-sponge/discordsrv2-sponge.iml" group="discordsrv2-sponge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-sponge/discordsrv2-sponge_main.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-sponge/discordsrv2-sponge_main.iml" group="discordsrv2-sponge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discordsrv2-sponge/discordsrv2-sponge_test.iml" filepath="$PROJECT_DIR$/.idea/modules/discordsrv2-sponge/discordsrv2-sponge_test.iml" group="discordsrv2-sponge" />
+    </modules>
+  </component>
+</project>

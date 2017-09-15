@@ -1,0 +1,13 @@
+dependencies {
+    compile 'net.dv8tion:JDA:3.3.0_271'
+}
+
+jar {
+    from {configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+}
+
+shadowJar {
+    dependencies {
+        include(dependency('net.dv8tion:JDA:3.3.0_271'))
+    }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="discordsrv2-bukkit_main" target="1.8" />
+      <module name="discordsrv2-bukkit_test" target="1.8" />
+      <module name="discordsrv2-bungee_main" target="1.8" />
+      <module name="discordsrv2-bungee_test" target="1.8" />
+      <module name="discordsrv2-common_main" target="1.8" />
+      <module name="discordsrv2-common_test" target="1.8" />
+      <module name="discordsrv2-forge_api" target="1.8" />
+      <module name="discordsrv2-forge_main" target="1.8" />
+      <module name="discordsrv2-forge_test" target="1.8" />
+      <module name="discordsrv2-sponge_main" target="1.8" />
+      <module name="discordsrv2-sponge_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+dependencies {
+    compile project(':discordsrv2-common')
+    compile 'org.bukkit:bukkit:1.12.1-R0.1-SNAPSHOT'
+}
+
+shadowJar {
+    baseName = "DiscordSRV2-Bukkit"
+
+    dependencies {
+        include(dependency(':discordsrv2-common'))
+    }
+}
+
+import org.apache.tools.ant.filters.ReplaceTokens
+processResources {
+    from(sourceSets.main.resources.srcDirs) {
+        filter ReplaceTokens, tokens: [version: pluginVersion]
+    }
+}
