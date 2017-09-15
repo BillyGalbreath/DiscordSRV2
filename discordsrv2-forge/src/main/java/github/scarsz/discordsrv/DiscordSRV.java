@@ -10,7 +10,8 @@ import org.apache.logging.log4j.Logger;
         modid = DiscordSRV.MOD_ID,
         name = DiscordSRV.MOD_NAME,
         version = DiscordSRV.VERSION,
-        serverSideOnly = true
+        serverSideOnly = true,
+        acceptableRemoteVersions = "*"
 )
 public class DiscordSRV {
 
