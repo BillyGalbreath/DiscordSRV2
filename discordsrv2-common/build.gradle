@@ -8,6 +8,6 @@ jar {
 
 shadowJar {
     dependencies {
-        include(dependency('net.dv8tion:JDA:3.3.0_271'))
+        include(dependency('net.dv8tion:JDA:3.3.0_271:withDependencies'))
     }
 }
