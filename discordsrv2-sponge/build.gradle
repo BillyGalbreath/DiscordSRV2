@@ -5,9 +5,3 @@ dependencies {
     compile project(":discordsrv2-common")
     compile 'org.spongepowered:spongeapi:6.0.0'
 }
-
-shadowJar {
-    dependencies {
-        include(dependency(':discordsrv2-common'))
-    }
-}

@@ -21,19 +21,11 @@ minecraft {
     // snapshot_YYYYMMDD   snapshot are built nightly.
     // stable_#            stables are built at the discretion of the MCP team.
     mappings = project.mcpVersion
-    // makeObfSourceJar = false // an Srg named sources jar is made by default. uncomment this to disable.
+    makeObfSourceJar = false // an Srg named sources jar is made by default. uncomment this to disable.
 }
 
 dependencies {
     compile project(":discordsrv2-common")
-}
-
-shadowJar {
-    baseName = "DiscordSRV-Forge"
-
-    dependencies {
-        include(dependency(":discordsrv2-common"))
-    }
 }
 
 processResources {
